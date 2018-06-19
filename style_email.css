@@ -1,0 +1,18 @@
+html{
+background: linear-gradient(to right, green , yellow);
+}
+body{
+	border-style: dashed;
+	border-width: medium;
+}
+
+label {
+	float: left;
+    width: 11em;
+    text-align: right;
+    padding-bottom: .5em;
+}
+input {
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
